@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 280 64" fill="none" role="img" aria-label="Umiya">
+  <rect width="280" height="64" rx="8" fill="#FF5F1F"/>
+  <!-- UT mark -->
+  <rect x="10" y="10" width="44" height="44" rx="2" stroke="#fff" stroke-width="2.5" fill="none"/>
+  <text x="18" y="38" fill="#fff" font-family="Arial Black, Arial, sans-serif" font-size="22" font-weight="800">UT</text>
+  <path d="M14 48 Q22 44 30 48 Q38 52 46 46" stroke="#fff" stroke-width="1.8" fill="none" stroke-linecap="round"/>
+  <path d="M16 52 Q24 49 32 52 Q40 55 48 50" stroke="#fff" stroke-width="1.4" fill="none" stroke-linecap="round" opacity=".9"/>
+  <!-- Umiya wordmark -->
+  <text x="64" y="40" fill="#fff" font-family="Arial, Helvetica, sans-serif" font-size="28" font-weight="700" letter-spacing="0.5">Umiya</text>
+  <text x="168" y="26" fill="#fff" font-family="Arial, sans-serif" font-size="9" font-weight="700">TM</text>
+  <line x1="64" y1="46" x2="168" y2="46" stroke="#fff" stroke-width="1.5"/>
+</svg>
