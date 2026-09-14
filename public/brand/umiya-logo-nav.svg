@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 432 96" fill="none" role="img" aria-label="Umiya">
+  <rect width="432" height="96" rx="14" fill="#FF5F1F"/>
+  <rect x="14" y="14" width="72" height="72" rx="3" stroke="#fff" stroke-width="3" fill="none"/>
+  <text x="50" y="58" fill="#fff" font-family="Arial Black, Impact, sans-serif" font-size="32" font-weight="900" text-anchor="middle" letter-spacing="-2">UT</text>
+  <path d="M22 72c12-6 26-7 40-2" stroke="#fff" stroke-width="2.2" stroke-linecap="round" fill="none"/>
+  <path d="M24 77c11-4.5 22-5 34-1.5" stroke="#fff" stroke-width="1.7" stroke-linecap="round" fill="none" opacity="0.95"/>
+  <path d="M 96 18 H 404 Q 418 18 418 32 V 68 Q 418 82 404 82 H 96 V 18 Z" stroke="#fff" stroke-width="2.6" fill="none"/>
+  <text x="108" y="58" fill="#fff" font-family="Poppins, Arial, sans-serif" font-size="40" font-weight="700">Umiya</text>
+  <line x1="148" y1="66" x2="318" y2="66" stroke="#fff" stroke-width="2" stroke-linecap="round"/>
+  <circle cx="396" cy="28" r="10" stroke="#fff" stroke-width="1.6" fill="none"/>
+  <text x="396" y="32" fill="#fff" font-family="Arial, sans-serif" font-size="8" font-weight="700" text-anchor="middle">TM</text>
+</svg>
