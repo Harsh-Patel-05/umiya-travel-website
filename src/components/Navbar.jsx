@@ -50,12 +50,17 @@ export default function Navbar() {
           aria-label="Main"
           className="container-rd flex h-16 items-center justify-between gap-4 lg:h-[4.75rem]"
         >
-          <a href="#home" onClick={close} className="shrink-0 rounded-md" aria-label="RD Travel — back to top">
+          <a
+            href="#home"
+            onClick={close}
+            className="inline-flex shrink-0 items-center rounded-md bg-white px-1.5 py-1 shadow-sm"
+            aria-label="RD Travel — back to top"
+          >
             <Logo
               variant="full"
-              tone={solid ? 'light' : 'dark'}
+              tone="light"
               alt=""
-              className="w-[132px] min-[400px]:w-[146px] lg:w-[164px]"
+              className="w-[128px] min-[400px]:w-[140px] lg:w-[160px]"
             />
           </a>
 
