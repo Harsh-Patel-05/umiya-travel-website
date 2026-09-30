@@ -1,6 +1,6 @@
-﻿# Umiya — Exclusive Car Rental
+﻿# RD Travel — Exclusive Car Rental
 
-Premium multi-page frontend website for Umiya Exclusive Car Rental & Travel Services.
+Premium multi-page frontend website for RD Travel Exclusive Car Rental & Travel Services.
 
 ## Run
 
@@ -21,7 +21,9 @@ npm run dev
 
 ## Brand
 
-Official logo: `public/brand/umiya-logo.jpg`
+Official logo: `public/brand/rd-travel-logo.png`
+
+Theme colors (from the logo): orange `#FF7A00`, deep orange `#F25C05`, black `#171813`.
 
 Slogan:
 
